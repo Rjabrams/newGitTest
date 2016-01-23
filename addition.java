@@ -1,3 +1,8 @@
+// addition algorithm in java
+// tester file for github
+
+
+
 import java.util.Scanner;
 
 public class Addition{
